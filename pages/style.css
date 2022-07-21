@@ -88,6 +88,17 @@ body{
 }
 /* Footer-end */
 
+
+/*>>>>>>>>>>>> MEDIAS QUERY <<<<<<<<<<<<< */
+
+/* Galeria-start */
+
+.carousel-inner{
+    max-height: 49rem;
+}
+
+/* Galeria-end */
+
 /* Footer-start */
 @media screen and (max-width:768px) {
     .pie-pagina .grupo-1{
