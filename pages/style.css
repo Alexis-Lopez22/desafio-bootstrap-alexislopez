@@ -18,6 +18,25 @@ body{
     }
 }
 
+/* Contacto-start */
+/* Contenedor fallando, pendiente a solucionar. */
+/* .contenedor-formulario {
+    position: absolute;
+    top:39%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #e6e6e6;
+    border-radius: 5px;
+    max-width: 500px;
+} */
+
+.titulo-formulario {
+    text-align: center;
+    color:rgb(44, 44, 44);
+}
+
+/* Contacto-end */
+
 /* Footer-start */
 .pie-pagina{
     width: 100%;
